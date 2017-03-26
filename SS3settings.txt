@@ -1,3 +1,10 @@
+Keymaps (for Windows users):
+[
+	{ "keys": ["alt+shift+f"], "command": "reindent" },
+]
+
+Settings:
+
 {
 	"Seti_SB_orange": true,
 	"Seti_bold_slctdtab_labels": true,
