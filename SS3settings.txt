@@ -1,0 +1,40 @@
+{
+	"Seti_SB_orange": true,
+	"Seti_bold_slctdtab_labels": true,
+	"Seti_orange_button": true,
+	"Seti_orange_label": true,
+	"args":
+	{
+		"single_line": false
+	},
+	"bold_folder_labels": true,
+	"class": "icon_folder",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"command": "reindent",
+	"enabled_plugins":
+	[
+		"SimpleReloadPlugin",
+		"SimpleRefresh"
+	],
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Colorcoder",
+		"Vintage"
+	],
+	"keys":
+	[
+		"alt+shift+f"
+	],
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
+	"parents":
+	{
+		"attributes": "expanded",
+		"class": "tree_row"
+	},
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Seti_orig.sublime-theme",
+	"word_wrap": "true"
+}
