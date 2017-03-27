@@ -43,5 +43,6 @@ Settings:
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Seti_orig.sublime-theme",
+	"theme": "OneDarkMaterial.sublime-theme",
 	"word_wrap": "true"
 }
